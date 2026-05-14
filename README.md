@@ -6,5 +6,5 @@ Team members:
 - Chang-An Lo
 
 Contents:
-- code/
-- slides/
+- code used for our project
+- final presentation ppt
