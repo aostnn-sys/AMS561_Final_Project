@@ -1,2 +1,10 @@
-# AMS561_Final_Project
-AMS561\DCS521 final project: Texas Hold'em probability estimation and decision analysis
+# AMS561/DCS521 Final Project
+Texas Hold'em Probability Estimation and Decision Analysis
+
+Team members:
+- Austin Lou
+- Chang-An Lo
+
+Contents:
+- code/
+- slides/
